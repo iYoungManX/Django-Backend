@@ -33,3 +33,6 @@ urlpatterns = [
 
     url(r'^media/(?P<path>.*)',serve,{'document_root':MEDIA_ROOT}),
 ]
+
+
+### this is a new article
